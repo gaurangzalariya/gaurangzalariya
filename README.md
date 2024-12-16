@@ -32,7 +32,14 @@ Hi, I'm **Gary Zalariya**, a passionate web developer and designer with over 14 
 
 ###
 
-<p align="left">I run Wonqy Media, where we focus on crafting innovative web and mobile solutions for businesses worldwide.<br><br>📫 Let's Connect:<br><br>Email: gary@wonqymedia.com<br>LinkedIn: linkedin.com/in/gaurangzalariya<br><br>When I’m not coding, you’ll find me spending time with my family, exploring new technologies, or helping brands turn their ideas into reality. Let's collaborate and create something amazing together! 🚀</p>
+I run **Wonqy Media**, where we focus on crafting innovative web and mobile solutions for businesses worldwide.
+
+📫 Let's Connect:
+Email: gary@wonqymedia.com
+Website: www.wonqymedia.com
+LinkedIn: linkedin.com/in/gaurangzalariya
+
+When I’m not coding, you’ll find me spending time with my family, exploring new technologies, or helping brands turn their ideas into reality. Let's collaborate and create something amazing together! 🚀
 
 ###
 
