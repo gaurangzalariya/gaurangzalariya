@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm **Gary Zalariya**, a passionate web developer and designer with over 14 years of experience creating seamless digital experiences. I specialize in Shopify, WordPress, and ReactJS development, delivering exceptional results that align with my clients' goals.</p>
+<p align="left">Hi, I'm *Gary Zalariya*, a passionate web developer and designer with over 14 years of experience creating seamless digital experiences. I specialize in Shopify, WordPress, and ReactJS development, delivering exceptional results that align with my clients' goals.</p>
 
 ###
 
