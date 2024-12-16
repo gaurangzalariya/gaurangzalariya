@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Gary Zalariya, a passionate web developer and designer with over 14 years of experience creating seamless digital experiences. I specialize in Shopify, WordPress, and ReactJS development, delivering exceptional results that align with my clients' goals.</p>
+<p align="left">Hi, I'm **Gary Zalariya**, a passionate web developer and designer with over 14 years of experience creating seamless digital experiences. I specialize in Shopify, WordPress, and ReactJS development, delivering exceptional results that align with my clients' goals.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Frontend: HTML, CSS/SCSS, JavaScript, ReactJS, NextJS<br>Design: Figma, Photoshop<br>Frameworks: Zurb Foundation, Bootstrap<br>CMS: Shopify, WordPress, WooCommerce, Miva</p>
+- Frontend: HTML, CSS/SCSS, JavaScript, ReactJS, NextJS
+- Design: Figma, Photoshop
+- Frameworks: Zurb Foundation, Bootstrap
+- CMS: Shopify, WordPress, WooCommerce, Miva
 
 ###
 
@@ -18,7 +21,10 @@
 
 ###
 
-<p align="left">Build modern, user-friendly websites and applications<br>Create bespoke Shopify themes tailored to your store<br>Develop and integrate WordPress websites with custom functionalities<br>Design responsive interfaces that look great on all devices</p>
+- Build modern, user-friendly websites and applications
+- Create bespoke Shopify themes tailored to your store
+- Develop and integrate WordPress websites with custom functionalities
+- Design responsive interfaces that look great on all devices
 
 ###
 
